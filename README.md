@@ -6,7 +6,7 @@ Creates repository folder and initializes github repository
 * Selenium
 
 ---
-Installation
+## Installation
 1. Change line 6 of .my_commands.sh to point to your project directory
 2. Change line 9 of .my_commands.sh to include your github username
 3. Change lines 5, 14, and 16 of create.py to your project directory, github username, and github password
