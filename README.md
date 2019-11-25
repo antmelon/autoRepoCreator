@@ -17,4 +17,9 @@ mv create.py ~/
 cd ~/
 chmod +x .my_commands.sh
 ```
-5. add ~/.my_commands.sh to .bashrc or .zshrc
+5. Add ~/.my_commands.sh to .bashrc or .zshrc
+---
+## Usage
+```shell
+create Directory
+```
